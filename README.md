@@ -2,20 +2,16 @@
 
 A lightweight Python command-line toolkit for verifying translation quality in multilingual apps.
 
-This tool helps **Localization Engineers** and **QA testers**:
-- Detect untranslated or identical strings
-- Validate placeholder consistency between source and target
-- Flatten nested translation files
-- Run quick, scriptable checks from the command line
 
----
+
+
 
 ## 🚀 Features
 
-- ✅ Detect untranslated strings
+- ✅ Detect untranslated or identical strings
 - ⚠️ Compare placeholders between source and target
-- 📄 Supports nested JSON translation files
-- 🛠 CLI-based — easy to use with automation or CI pipelines
+- 📄 Flatten nested translation files
+- 🛠 Shared utilities for file I/O, string normalization, and comparison
 
 ---
 
